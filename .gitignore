@@ -1,0 +1,19 @@
+# Build target
+**/target/
+**/build/
+**/out/
+
+# Gradle files
+.gradle/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Intellij idea files
+.idea/
+*.iml
+
+# log files
+*.log
